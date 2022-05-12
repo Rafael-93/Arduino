@@ -1,5 +1,4 @@
 //Programa: Teste de Display LCD 16 x 2
-//Autor: FILIPEFLOP
  
 //Carrega a biblioteca LiquidCrystal
 #include <LiquidCrystal.h>
